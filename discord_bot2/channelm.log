@@ -1,0 +1,16 @@
+2025-01-01 15:01:32,704:INFO:discord.llm: A new channel creation has been called with a name: testtest
+2025-01-01 15:01:33,111:INFO:discord.llm: A new channel has been succesfully created with a name: testtest
+2025-01-01 15:02:07,435:INFO:discord.llm: A new voice channel creation has been called with a name: testtest
+2025-01-01 15:02:07,435:INFO:discord.llm: Category 'Voice' not found.
+2025-01-01 15:02:48,937:INFO:discord.llm: A new voice channel creation has been called with a name: testtest
+2025-01-01 15:02:48,938:INFO:discord.llm: Category 'VoiceChannels' not found.
+2025-01-01 15:03:22,234:INFO:discord.llm: A new voice channel creation has been called with a name: testtest
+2025-01-01 15:03:22,235:INFO:discord.llm: Category ''Voice' not found.
+2025-01-01 15:03:32,579:INFO:discord.llm: A new voice channel creation has been called with a name: testtest
+2025-01-01 15:03:32,580:INFO:discord.llm: Category 'Voice_Channels' not found.
+2025-01-01 15:07:20,619:INFO:discord.llm: A new voice channel creation has been called with a name: testtest
+2025-01-01 15:07:20,967:INFO:discord.llm: A new voice channel has been successfully created with a name: testtest
+2025-01-01 15:07:34,296:INFO:discord.llm: An existent channels deletion has been called, channel name: testtest
+2025-01-01 15:07:34,624:INFO:discord.llm: Channel with the name has been successfully deleted: testtest
+2025-01-01 15:07:42,324:INFO:discord.llm: An existent channels deletion has been called, channel name: testtest
+2025-01-01 15:07:42,751:INFO:discord.llm: Channel with the name has been successfully deleted: testtest
